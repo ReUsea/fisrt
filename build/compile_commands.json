@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Coding/vs_code/c++/fisrt/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.obj -c E:\\Coding\\vs_code\\c++\\fisrt\\src\\main.cpp",
+  "file": "E:/Coding/vs_code/c++/fisrt/src/main.cpp",
+  "output": "CMakeFiles/main.dir/main.obj"
+}
+]

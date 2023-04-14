@@ -1,0 +1,1 @@
+在Windows平台上，该项目验证了基于vscode和Cmake如何构建包含第三方库程序
